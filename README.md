@@ -13,8 +13,8 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 ## Segemaker Lab
 
 * Obteniendo los datos
-* Analizando los datos
 * Limpiando los datos
+* Analizando los datos
 * Analizando los outliers
 * Separando en Trainin - Test
 * Entrenando el modelo
