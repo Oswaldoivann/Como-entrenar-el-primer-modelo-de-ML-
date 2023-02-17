@@ -4,11 +4,11 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 ## Temario
 
-* Categoria de Algoritmos
+* Categoría de Algoritmos
 * ¿Clasificación y Regresión?
-* conceptos basicos de Machine Learning
-* ¿Qué es un modelo de Regresion Lineal?
-* ¿Donde se usa un modelo de Regresion Linieal?
+* Conceptos basicos de Machine Learning
+* ¿Qué es un modelo de Regresión Lineal?
+* ¿Dónde se usa un modelo de Regresión Lineal?
 
 ## Segemaker Lab
 
@@ -16,7 +16,7 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * Limpiando los datos
 * Analizando los datos
 * Analizando los outliers
-* Separando en Trainin - Test
+* Separando en Training - Test
 * Entrenando el modelo
 * Probando nuestro modelo
 
