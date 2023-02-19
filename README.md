@@ -10,7 +10,7 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * ¿Qué es un modelo de Regresión Lineal?
 * ¿Dónde se usa un modelo de Regresión Lineal?
 
-## :spiral_notepad: Categoria de Algoritmos
+# :spiral_notepad: Categoria de Algoritmos
 
 **Supervisados:** Son aquellos donde se tiene una etiqueta o variable respuesta. Se fundamenta modelos con información histórica para predecir en el futuro. 
 
@@ -18,9 +18,17 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 **Aprendizaje por refuerzo:** Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error ( por recompensa)
 
-## 👨🏻‍💻 Tipos de Algoritmos de Supervisión
+# 👨🏻‍💻 Tipos de Algoritmos de Supervisión
 
- Los Algoritmos de Supervision podemos clasificarlos entre problemas de regresión y clasificación.
+Los Algoritmos de Supervision podemos clasificarlos entre problemas de regresión, clasificación, 
+
+## En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características, o para predecir la cantidad de lluvia que caerá en un día determinado. Es decir, la variable target en un problema de regresión es de tipo cuantitativa.
+En vez de predecir categorías, predicen valores numéricos. 
+
+## En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características.
+
+
+
 
 
 
