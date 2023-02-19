@@ -22,10 +22,14 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 Los Algoritmos de Supervision podemos clasificarlos entre problemas de regresión, clasificación, 
 
-## En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características, o para predecir la cantidad de lluvia que caerá en un día determinado. Es decir, la variable target en un problema de regresión es de tipo cuantitativa.
+### Regresión
+
+En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características, o para predecir la cantidad de lluvia que caerá en un día determinado. Es decir, la variable target en un problema de regresión es de tipo cuantitativa.
 En vez de predecir categorías, predicen valores numéricos. 
 
-## En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características.
+### clasificación
+
+En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características.
 
 
 
