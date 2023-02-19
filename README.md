@@ -20,20 +20,14 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * Entrenando el modelo
 * Probando nuestro modelo
 
-### :spiral_notepad: Categoria de Algoritmos
+## :spiral_notepad: Categoria de Algoritmos
 
-Supervisados: Son aquellos donde se tiene una etiqueta o variable respuesta. Se fundamenta modelos con información histórica para predecir en el futuro. 
+**Supervisados:** Son aquellos donde se tiene una etiqueta o variable respuesta. Se fundamenta modelos con información histórica para predecir en el futuro. 
 
-No supervisados: Son aquellos donde no se tiene variable respuesta. Se busca descubrir y crear las etiquetas.
+**No supervisados:** Son aquellos donde no se tiene variable respuesta. Se busca descubrir y crear las etiquetas.
 
-Aprendizaje por refuerzo: Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error ( por recompensa)
+**Aprendizaje por refuerzo:** Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error ( por recompensa)
 
+## 👨🏻‍💻 Tipos de Algoritmos de Supervisión
 
-### 
-
-
-
-
-
-
- Se clasifican en problemas de regresión y clasificación.
+ Los Algoritmos de Supervision podemos clasificarlos entre problemas de regresión y clasificación.
