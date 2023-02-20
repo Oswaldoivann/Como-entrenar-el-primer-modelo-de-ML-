@@ -12,13 +12,15 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 # 🧠 Machine Learning
 
-El Machine Learning es una rama de la Inteligencia Artificial (IA), la IA se refiere a la capacidad de una maquina de realizar tareas o procesos, que requieren de una “inteligencia” similar a la de un ser humano. Asi que el proceso de ML se refiere a sistemas que pueden aprender de los datos, identificar patrones y tomar decisiones con minima intervencion humana.
+El Machine Learning es una rama de la *Inteligencia Artificial* (IA), que es la capacidad de una maquina para realizar tareas o procesos, que requieren de una “inteligencia” similar a la de un ser humano.
+
+Por su parte el proceso de **Machine Learning** se refiere a los sistemas que pueden aprender de los datos, identificar patrones y tomar decisiones con minima intervencion humana.
 
 # :spiral_notepad: Categoria de Algoritmos
 
 ### Supervisados:
 
-Son aquellos donde se tiene una etiqueta o variable respuesta. El objetivo de los modelos supervisados es predecir el valor de una variable respuesta en función de una o varias variables de entrada o predictores. Se fundamenta con información histórica para predecir en el futuro el resultado.
+Son aquellos donde se tiene una etiqueta o variable respuesta. El objetivo de los modelos supervisados es predecir el valor de una variable respuesta en función de una o varias variables de entrada o predictores. Se fundamenta con información histórica para predecir en el futuro un resultado.
 
 ### No supervisados: 
 
@@ -26,7 +28,8 @@ Son aquellos donde no se tiene una variable respuesta. Y se busca descubrir y en
 
 ### Aprendizaje por refuerzo: 
 
-Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error.
+Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error. Este aprendizaje es usafo en robótica para entrenar robots en el control de movimiento, navegación autónoma, manipulación de objetos, entre otros.
+
 
 # 👨🏻‍💻 Tipos de Algoritmos de Supervisión
 
@@ -34,27 +37,40 @@ Los algoritmos supervisados se llaman así porque requieren que el conjunto de d
 
 ### Regresión
 
-En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características, o para predecir la cantidad de lluvia que caerá un día. La variable target en un problema de regresión es de tipo cuantitativa. En vez de predecir categorías, predicen valores numéricos. 
+En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características o features. La variable target en un problema de regresión de tipo cuantitativa. Predicen valores numéricos. 
 
 ### Clasificación
 
-En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características. Buscamos predecir una etiqueta o clase para un conjunto de datos
+En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta de tipo categórica. Con la clasificación buscamos predecir una etiqueta o clase para un conjunto de datos, como identificar el tipo de flor a partir de sus características. 
 
-### Árboles de decisión:
+### Redes Neuronales
 
-Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
+Estos algoritmos de aprendizaje profundo utiliza una estructura de red de neuronas artificiales para aprender a partir de datos. Estos modelos se utilizan para una amplia variedad de problemas de clasificación y regresión.
 
 
 ## 🎲 Tipos de Problemas con ML Supervisado
 
+Binaria: Se espera una respuesta Verdadera y Falsa, un valor 0, 1 tambien llamada binaria.
 
-Regresión: El resultado es un valore decimal, el resultado es una variable del calculo de una ecuación.
+Regresión: El resultado es un valor decimal, el resultado es una variable del calculo de una ecuación.
 
 Multiclase: Se espera obtener una repsuesta No binaria, mas de un resultado A, B, C, ..., N. 
 
-Binaria: Se espera una respuesta Verdadera y Falsa, un valor 0, 1 tambien llamada binaria.
+Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones en imágenes médicas para detectar enfermedades.
+
+
+
+
+
   
 
+
+
+
+
+#### Árboles de decisión:
+
+Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
 
 
 # Segemaker Lab
