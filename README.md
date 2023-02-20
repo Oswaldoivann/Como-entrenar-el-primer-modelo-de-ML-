@@ -4,11 +4,12 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 # Temas
 
-* Categoría de Algoritmos
+* Machine Learning
+* Categoria de Algoritmos
+* Tipos de Algoritmos de Supervisión
 * ¿Clasificación y Regresión?
-* Conceptos basicos de Machine Learning
 * ¿Qué es un modelo de Regresión Lineal?
-* ¿Dónde se usa un modelo de Regresión Lineal?
+* ¿Qué es un modelo de Árboles de decisión?
 
 # 🧠 Machine Learning
 
@@ -48,7 +49,7 @@ En la clasificación, buscamos predecir una la variable target (etiqueta) o resp
 Estos algoritmos de aprendizaje profundo utiliza una estructura de red de neuronas artificiales para aprender a partir de datos. Estos modelos se utilizan para una amplia variedad de problemas de clasificación y regresión.
 
 
-## 🎲 Tipos de Problemas con ML Supervisado
+# 🎲 Tipos de Problemas con ML Supervisado
 
 Binaria: Se espera una respuesta Verdadera y Falsa, un valor 0, 1 tambien llamada binaria.
 
