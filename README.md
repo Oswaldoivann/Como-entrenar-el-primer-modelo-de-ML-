@@ -45,7 +45,7 @@ En la clasificación, buscamos predecir una la variable target (etiqueta) o resp
 Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
 
 
-# 🎲 Tipos de Problemas con ML Supervisado
+## 🎲 Tipos de Problemas con ML Supervisado
 
 ### Binaria:
 
