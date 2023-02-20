@@ -76,7 +76,9 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
 
 | No | Title | Open in Studio Lab |
 |----|-------|--------------------|
-|   1|Python I | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)] (https://github.com/Oswaldoivann/How-to-train-you-first-model-in-ML-/blob/main/Notebooks/Python%20I.ipynb) |
+|   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
+  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
+</a> |
 
 
 
