@@ -1,6 +1,6 @@
-# How to train you first model in ML ?
+# ¿Como entrenar el primer modelo de Machine Learning?
 
-Learning the basic concepts of Machine Learning in a model of Lineal Regression
+Aprende los conceptos basicos de un Modelos de Machine Learning utilizando algoritmos para Ciencia de Datos. 
 
 # Temas
 
@@ -9,8 +9,9 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * Tipos de Algoritmos de Supervisión
 * ¿Clasificación y Regresión?
 * Tipos de Problemas con ML Supervisado
-* ¿Qué es un modelo de Regresión Lineal?
-* ¿Qué es un modelo de Árboles de decisión?
+* 
+* Modelo de Regresión Lineal
+* Modelo de Árboles de decisión
 
 
 
