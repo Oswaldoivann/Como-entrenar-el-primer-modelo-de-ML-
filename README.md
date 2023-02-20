@@ -10,6 +10,10 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * ¿Qué es un modelo de Regresión Lineal?
 * ¿Dónde se usa un modelo de Regresión Lineal?
 
+# 🧠 Machine Learning
+
+Rama de la Inteligencia Artificial (IA). IA se refiere a la capacidad de una maquina de realizar tareas y/o procesos, los cuales requieren de una “inteligencia” similar a la de un ser humano, desarrollándolas de la misma forma o mejor que una persona. ML se refiere a sistemas que pueden aprender de los datos, identificar pratrones y tomar decisiones con minima intervencion humana.
+
 # :spiral_notepad: Categoria de Algoritmos
 
 **Supervisados:** Son aquellos donde se tiene una etiqueta o variable respuesta. Se fundamenta modelos con información histórica para predecir en el futuro. 
