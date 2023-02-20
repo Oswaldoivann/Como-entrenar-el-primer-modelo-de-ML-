@@ -74,7 +74,12 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
 
 # 🪲 Algoritmos de Aprendizaje Supervisado
 
-
+   * Regresión lineal
+   * Regresión logística
+   * Árboles de decisión
+   * Máquinas de vectores de soporte (SVM)
+   * Naïve Bayes
+   * K vecinos más cercanos (KNN) 
 
 # :notebook: Segemaker Lab - Python I
 
@@ -83,8 +88,8 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
 | No | Title | Open in Studio Lab |
 |----|-------|--------------------|
 |   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
-  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
-  </a> |
+   <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
+   </a> |
 
 
 ## Regresion Lineal:
