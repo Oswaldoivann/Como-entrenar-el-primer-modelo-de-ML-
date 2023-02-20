@@ -80,6 +80,13 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
    * Máquinas de vectores de soporte (SVM)
    * Naïve Bayes
    * K vecinos más cercanos (KNN) 
+   * Redes neuronales
+   * Gradient Boosting Machines (GBM)
+   * Random Forest
+   * Redes neuronales convolucionales (CNN)
+   * Redes neuronales recurrentes (RNN)
+   * Modelos lineales generalizados (GLM)
+   * Máquinas de vectores de soporte con núcleo gaussiano (SVM-Gaussian Kernel)
 
 # :notebook: Segemaker Lab - Python I
 
