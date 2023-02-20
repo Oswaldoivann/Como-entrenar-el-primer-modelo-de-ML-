@@ -30,10 +30,12 @@ En la regresión, se trata de predecir un valor numérico para un conjunto de da
 
 En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características. Buscamos predecir una etiqueta o clase para un conjunto de datos
 
-### Aprendizaje basado en árboles:
+### Árboles de decisión:
+
+Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
 
 
-### 
+# 
 
 
 
