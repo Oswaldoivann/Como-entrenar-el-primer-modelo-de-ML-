@@ -74,6 +74,8 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
 
 # 🪲 Algoritmos de Aprendizaje Supervisado
 
+Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias características y aplicaciones. La elección del algoritmo dependerá del problema específico que se esté abordando y de las características del conjunto de datos.
+
    * Regresión lineal
    * Regresión logística
    * Árboles de decisión
