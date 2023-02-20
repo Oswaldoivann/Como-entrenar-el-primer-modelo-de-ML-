@@ -8,6 +8,7 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * Categoria de Algoritmos
 * Tipos de Algoritmos de Supervisión
 * ¿Clasificación y Regresión?
+* Tipos de Problemas con ML Supervisado
 * ¿Qué es un modelo de Regresión Lineal?
 * ¿Qué es un modelo de Árboles de decisión?
 
@@ -36,7 +37,7 @@ Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en
 
 # 👨🏻‍💻 Tipos de Algoritmos de Supervisión
 
-Los algoritmos supervisados se llaman así porque requieren que el conjunto de datos de entrenamiento contenga las respuestas correctas (también conocidas como etiquetas o valores objetivo) para cada observación. 
+Los algoritmos supervisados se llaman así porque requieren que el conjunto de datos de entrenamiento contenga las respuestas correctas también conocidas como etiquetas o valores objetivo para cada observación de nuestos dataset. 
 
 ### Regresión
 
@@ -50,6 +51,14 @@ En la clasificación, buscamos predecir una la variable target (etiqueta) o resp
 
 Estos algoritmos de aprendizaje profundo utiliza una estructura de red de neuronas artificiales para aprender a partir de datos. Estos modelos se utilizan para una amplia variedad de problemas de clasificación y regresión.
 
+# 🤔 ¿Clasificación o Regresión?
+
+La elección entre clasificación o regresión depende de la naturaleza del problema que se esté tratando de resolver y del tipo de datos que se estén utilizando.
+
+Una **Regresión** puede tener como entrada valores continuos o discretos. Un problema con múltiples variables de entrada a menudo se denomina problema de regresión multivariante.
+
+Una **Clasificiación** requiere una variable objetivo con dos o más clases, un problema con dos clases se denomina problema de clasificación binaria y con más de dos clasificación multiclase.
+
 
 # 🎲 Tipos de Problemas con ML Supervisado
 
@@ -60,6 +69,14 @@ Regresión: El resultado es un valor decimal, el resultado es una variable del c
 Multiclase: Se espera obtener una repsuesta No binaria, mas de un resultado A, B, C, ..., N. 
 
 Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones en imágenes médicas para detectar enfermedades.
+
+# :notebook: Segemaker Lab - Python I
+
+### Python I
+
+| No | Title | Open in Studio Lab |
+|----|-------|--------------------|
+|   1|Python I | [![Open in SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws/studio-lab-examples/blob/main/computer-vision/kmnist/cv-kminst.ipynb) |
 
 
 
@@ -76,7 +93,7 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
 Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
 
 
-# Segemaker Lab
+
 
 * Obteniendo los datos
 * Limpiando los datos
