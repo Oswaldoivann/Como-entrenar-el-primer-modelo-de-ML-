@@ -11,6 +11,8 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 * ¿Qué es un modelo de Regresión Lineal?
 * ¿Qué es un modelo de Árboles de decisión?
 
+
+
 # 🧠 Machine Learning
 
 El Machine Learning es una rama de la *Inteligencia Artificial* (IA), que es la capacidad de una maquina para realizar tareas o procesos, que requieren de una “inteligencia” similar a la de un ser humano.
