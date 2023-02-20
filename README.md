@@ -20,16 +20,20 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 # 👨🏻‍💻 Tipos de Algoritmos de Supervisión
 
-Los Algoritmos de Supervision podemos clasificarlos entre problemas de regresión, clasificación, 
+Los algoritmos supervisados se llaman así porque requieren que el conjunto de datos de entrenamiento contenga las respuestas correctas (también conocidas como etiquetas o valores objetivo) para cada observación. 
 
 ### Regresión
 
-En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características, o para predecir la cantidad de lluvia que caerá en un día determinado. Es decir, la variable target en un problema de regresión es de tipo cuantitativa.
-En vez de predecir categorías, predicen valores numéricos. 
+En la regresión, se trata de predecir un valor numérico para un conjunto de datos. Por ejemplo predecir el precio de una casa en función de sus características, o para predecir la cantidad de lluvia que caerá un día. La variable target en un problema de regresión es de tipo cuantitativa. En vez de predecir categorías, predicen valores numéricos. 
 
-### clasificación
+### Clasificación
 
-En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características.
+En la clasificación, buscamos predecir una la variable target (etiqueta) o respuesta, es una variable de tipo categórica. Con la clasificación podemos predecir si un correo electrónico es spam o no spam, o para identificar el tipo de flor a partir de sus características. Buscamos predecir una etiqueta o clase para un conjunto de datos
+
+### Aprendizaje basado en árboles:
+
+
+### 
 
 
 
