@@ -18,15 +18,15 @@ El Machine Learning es una rama de la Inteligencia Artificial (IA), la IA se ref
 
 ### Supervisados:
 
-Son aquellos donde se tiene una etiqueta o variable respuesta. Se fundamenta modelos con información histórica para predecir en el futuro. 
+Son aquellos donde se tiene una etiqueta o variable respuesta. El objetivo de los modelos supervisados es predecir el valor de una variable respuesta en función de una o varias variables de entrada o predictores. Se fundamenta con información histórica para predecir en el futuro el resultado.
 
 ### No supervisados: 
 
-Son aquellos donde no se tiene variable respuesta. Se busca descubrir y crear las etiquetas.
+Son aquellos donde no se tiene una variable respuesta. Y se busca descubrir y encontrar patrones a travez de los datos, El objetivo del clustering es identificar grupos o clusters de observaciones, creando las etiquetas clusterisando los datos.
 
 ### Aprendizaje por refuerzo: 
 
-Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error ( por recompensa)
+Funciona con un mecanismo de recompensa. Un agente (máquina) que interactúa en el entorno y prueba métodos. El agente es recompensado o castigado aprendiendo a prueba y error.
 
 # 👨🏻‍💻 Tipos de Algoritmos de Supervisión
 
@@ -47,14 +47,13 @@ Los árboles de decisión son un tipo de algoritmo de clasificación que divide 
 
 ## 🎲 Tipos de Problemas con ML Supervisado
 
-### Binaria:
 
-### Multiclase:
+Regresión: El resultado es un valore decimal, el resultado es una variable del calculo de una ecuación.
 
-### Regresión:
+Multiclase: Se espera obtener una repsuesta No binaria, mas de un resultado A, B, C, ..., N. 
 
-
-
+Binaria: Se espera una respuesta Verdadera y Falsa, un valor 0, 1 tambien llamada binaria.
+  
 
 
 
