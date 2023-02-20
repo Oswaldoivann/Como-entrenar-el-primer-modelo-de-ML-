@@ -103,6 +103,7 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
 
 ## Regresion Lineal:
 
+xyz
 
 ## Árboles de decisión:
 
