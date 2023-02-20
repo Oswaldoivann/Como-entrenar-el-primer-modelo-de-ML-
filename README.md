@@ -1,4 +1,4 @@
-# ¿Como entrenar el primer modelo de Machine Learning?
+# ¿Como entrenar el primer modelo de Machine Learning? 🥷🏽
 
 Aprende los conceptos basicos de un Modelos de Machine Learning utilizando algoritmos para Ciencia de Datos. 
 
