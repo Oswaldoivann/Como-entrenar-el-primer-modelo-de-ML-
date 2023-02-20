@@ -12,7 +12,7 @@ Learning the basic concepts of Machine Learning in a model of Lineal Regression
 
 # 🧠 Machine Learning
 
-Rama de la Inteligencia Artificial (IA). IA se refiere a la capacidad de una maquina de realizar tareas o procesos, que requieren de una “inteligencia” similar a la de un ser humano. ML se refiere a sistemas que pueden aprender de los datos, identificar pratrones y tomar decisiones con minima intervencion humana.
+El Machine Learning es una rama de la Inteligencia Artificial (IA), la IA se refiere a la capacidad de una maquina de realizar tareas o procesos, que requieren de una “inteligencia” similar a la de un ser humano. Asi que el proceso de ML se refiere a sistemas que pueden aprender de los datos, identificar patrones y tomar decisiones con minima intervencion humana.
 
 # :spiral_notepad: Categoria de Algoritmos
 
@@ -39,7 +39,13 @@ En la clasificación, buscamos predecir una la variable target (etiqueta) o resp
 Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
 
 
-# 
+# 🎲 Tipos de Problemas con ML Supervisado
+
+### Binaria:
+
+### Multiclase:
+
+### Regresión:
 
 
 
