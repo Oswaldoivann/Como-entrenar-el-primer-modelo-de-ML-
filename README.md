@@ -1,4 +1,4 @@
-# ¿Como entrenar el primer modelo de Machine Learning? 🥷🏽
+# 🥷 ¿Como entrenar el primer modelo de ML?
 
 Aprende los conceptos basicos de un Modelos de Machine Learning utilizando algoritmos para Ciencia de Datos. 
 
@@ -9,9 +9,10 @@ Aprende los conceptos basicos de un Modelos de Machine Learning utilizando algor
 * Tipos de Algoritmos de Supervisión
 * ¿Clasificación y Regresión?
 * Tipos de Problemas con ML Supervisado
-* 
-* Modelo de Regresión Lineal
-* Modelo de Árboles de decisión
+* Algoritmos de Aprendizaje Supervisado
+* Segemaker Lab
+   - Modelo de Regresión Lineal
+   - Modelo de Árboles de decisión
 
 
 
@@ -71,6 +72,10 @@ Multiclase: Se espera obtener una repsuesta No binaria, mas de un resultado A, B
 
 Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones en imágenes médicas para detectar enfermedades.
 
+# 🪲 Algoritmos de Aprendizaje Supervisado
+
+
+
 # :notebook: Segemaker Lab - Python I
 
 ### Python I
@@ -79,29 +84,13 @@ Reconocimiento: Identificar patrones en los datos. Como reconocer los patrones e
 |----|-------|--------------------|
 |   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
   <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
-</a> |
+  </a> |
 
 
+## Regresion Lineal:
 
 
-
-  
-
-
-
-
-
-#### Árboles de decisión:
+## Árboles de decisión:
 
 Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
 
-
-
-
-* Obteniendo los datos
-* Limpiando los datos
-* Analizando los datos
-* Analizando los outliers
-* Separando en Training - Test
-* Entrenando el modelo
-* Probando nuestro modelo
