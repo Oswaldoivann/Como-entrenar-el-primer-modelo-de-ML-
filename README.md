@@ -96,7 +96,7 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
 
 | No | Title | Open in Studio Lab |
 |----|-------|--------------------|
-|   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
+|   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/Oswaldoivann/Como-entrenar-el-primer-modelo-de-ML-/blob/main/Notebooks/Python%20I.ipynb">
    <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
    </a> |
 
