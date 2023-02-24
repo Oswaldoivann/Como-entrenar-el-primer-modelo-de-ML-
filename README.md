@@ -2,6 +2,8 @@
 
 Aprende los conceptos basicos de un Modelos de Machine Learning utilizando algoritmos para Ciencia de Datos. 
 
+![alt text]([url al GIF](https://giphy.com/embed/aX6BQtPpC5XTMnjb2C))
+
 # Temas
 
 * Machine Learning
