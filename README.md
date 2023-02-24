@@ -1,8 +1,10 @@
 # 🥷 ¿Como entrenar el primer modelo de ML?
 
-Aprende los conceptos basicos de un Modelos de Machine Learning utilizando algoritmos para Ciencia de Datos. 
+Aprende los conceptos basicos de un Modelo de Machine Learning utilizando algoritmos para Ciencia de Datos. 
 
-![alt text]([url al GIF](https://giphy.com/embed/aX6BQtPpC5XTMnjb2C))
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ5ZTI3ZWYzMzkwYjJhOWQxNTM4NGMyNDM2OWVmNzc4YTUxNWM4ZCZjdD1n/aX6BQtPpC5XTMnjb2C/giphy.gif" alt="Texto alternativo">
+</p>
 
 # Temas
 
