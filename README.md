@@ -106,7 +106,7 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
   </a> |
 
 
-# 📈 Regresión Lineal
+# 💹 Regresión Lineal
 
 La Regresión Lineal es un método matematico para establecer una relación entre una variable respuesta y una o más variables predictoras. Si existe una relación lineal entre las variables, se puede construir una línea recta que se ajuste a los datos para predecir valores futuros.
 
@@ -138,6 +138,6 @@ Las métricas de evaluación son utilizadas para evaluar el rendimiento de un mo
 
 Existen diferentes metricas de validación, por lo que seleccionar la adecuada dependera del problema que se desea predecir, el cientifico de datos identificara las mas valiosas para cada problema.
 
-# 🔄️ Conclusiones
+# 🔄️ Conclusión
 
 
