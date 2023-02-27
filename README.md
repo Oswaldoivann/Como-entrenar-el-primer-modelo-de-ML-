@@ -132,5 +132,8 @@ Guardamos la clase en una varaible  ```reg = LinearRegression()``` y entrenamos 
 
 Las métricas de evaluación son utilizadas para evaluar el rendimiento de un modelo de machine learning. Estas métricas pueden determinar si el modelo es efectivo para resolver el problema que se está abordando, son utilizadas para ajustar los parámetros del modelo y obtener mejores resultados.
 
-* Coeficiente de determinación (R²): El valor de R² varía entre 0 y 1, donde 0 indica que el modelo no explica ninguna variabilidad y 1 indica que el modelo explica toda la variabilidad. Cuanto mayor sea el valor, mejor será el modelo.
-* Validación cruzada (cross-validation): Es una técnica de validación cruzada utilizada para evaluar el rendimiento del modelo en términos de su capacidad para generalizar a datos no vistos. El proceso de validación cruzada implica dividir el conjunto de datos en varios subconjuntos, entrenar y evaluar el modelo en diferentes combinaciones de estos subconjuntos.
+- Coeficiente de determinación (R²): El valor de R² varía entre 0 y 1, donde 0 indica que el modelo no explica ninguna variabilidad y 1 indica que el modelo explica toda la variabilidad. Cuanto mayor sea el valor, mejor será el modelo.
+
+- Validación cruzada (cross-validation): Es una técnica de validación cruzada utilizada para evaluar el rendimiento del modelo en términos de su capacidad para generalizar a datos no vistos. El proceso de validación cruzada implica dividir el conjunto de datos en varios subconjuntos, entrenar y evaluar el modelo en diferentes combinaciones de estos subconjuntos.
+
+Existen otras metricas de validación,
