@@ -1,10 +1,11 @@
 # 🥷 ¿Como entrenar el primer modelo de ML?
 
-Aprende los conceptos basicos de un Modelo de Machine Learning utilizando algoritmos para Ciencia de Datos. 
+### Aprende los conceptos basicos de Machine Learning utilizando algoritmos para Ciencia de Datos
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGQ5ZTI3ZWYzMzkwYjJhOWQxNTM4NGMyNDM2OWVmNzc4YTUxNWM4ZCZjdD1n/aX6BQtPpC5XTMnjb2C/giphy.gif" alt="Texto alternativo">
-</p>
+  </p>
 
 # Temas
 
@@ -100,7 +101,7 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
 
 | No | Title | Open in Studio Lab |
 |----|-------|--------------------|
-|   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/Oswaldoivann/Como-entrenar-el-primer-modelo-de-ML-/Notebooks/Python%20I.ipynb">
+|   1|Python I | <a href="https://studiolab.sagemaker.aws">
    <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
    </a> |
 
@@ -109,17 +110,25 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
 
 La Regresión Lineal es un método matematico para establecer una relación entre una variable respuesta y una o más variables predictoras. Si existe una relación lineal entre las variables, se puede construir una línea recta que se ajuste a los datos para predecir valores futuros.
 
-- X = Respuesta ó Dependiente.
-- y = Predictoras ó Independientes.
+- X = Respuesta ó Dependiente, X es el conjunto de características (features).
+- y = Predictoras ó Independientes, y es el conjunto de etiquetas (labels).
 
 
 ## Dividiendo Data Set
 
-Para entrenar nuestro modelo, primero debemos dividimos los datos en conjuntos de entrenamiento y prueba para evaluar la capacidad del modelo de aprendizaje. Separar los datos en conjuntos de entrenamiento y prueba es esencial para evaluar modelos y utilizamos la mayor parte del conjunto de datos para el entrenamiento y una fracción más pequeña para las pruebas.
+Para entrenar el modelo primero dividimos los datos en conjuntos de entrenamiento y prueba, asi evaluaremos la capacidad de aprendizaje del modelo.
 
+La función ```train_test_split()``` divide aleatoriamente los datos en conjuntos de entrenamiento y prueba, el parámetro ```test_size``` especifica el tamaño del conjunto de prueba. Si ha establecido 0.2, significa que el 20% de los datos se reservan para el conjunto de prueba y el 80% para el conjunto de entrenamiento.
 
-## Entrenamiento del modelo
+El parámetro ```random_state``` se utiliza para inicializar el generador de números aleatorios, y asegura que se dividan los datos de la misma manera en cada ejecución del código. Estos numeros pueden ser 
 
+## Entrenando del modelo
+
+Para el entrenamiento usamos la clase ```LinearRegression()``` que ajusta el modelo utilizando los datos de ```X_train,  y_train```. Para entrenar el modelo usamos la función ```.fit()``` en nuestra clase. 
+
+Guardamos la clase en una varaible  ```reg = LinearRegression()``` y entrenamos el modelo ```reg.fit(X_train, y_train)```. Esta línea entrenara el modelo de utilizando los datos de entrenamiento para que pueda predecir la variable de salida. 
+
+## Evaluando el Modelo
 
 
 <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
