@@ -140,4 +140,3 @@ Existen diferentes metricas de validación, por lo que seleccionar la adecuada d
 
 # 🔄️ Conclusión
 
-
