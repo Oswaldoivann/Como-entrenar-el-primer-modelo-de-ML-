@@ -101,9 +101,9 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
 
 | No | Title | Open in Studio Lab |
 |----|-------|--------------------|
-|   1|Python I | <a href="https://studiolab.sagemaker.aws">
-   <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
-   </a> |
+|   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
+  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
+  </a> |
 
 
 # Regresión Lineal
@@ -114,7 +114,7 @@ La Regresión Lineal es un método matematico para establecer una relación entr
 - y = Predictoras ó Independientes, y es el conjunto de etiquetas (labels).
 
 
-## Dividiendo Data Set
+## Dividiendo el DataSet
 
 Para entrenar el modelo primero dividimos los datos en conjuntos de entrenamiento y prueba, asi evaluaremos la capacidad de aprendizaje del modelo.
 
@@ -130,10 +130,12 @@ Guardamos la clase en una varaible  ```reg = LinearRegression()``` y entrenamos 
 
 ## Evaluando el Modelo
 
+Las métricas de evaluación son medidas utilizadas para evaluar el rendimiento de un modelo de machine learning. Estas métricas pueden determinar si el modelo es efectivo para resolver el problema que se está abordando, son utilizadas para comparar diferentes modelos y ajustar los parámetros del modelo y obtener mejores resultados.
 
-<a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
-  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
-</a>
+
+
+
+
 
 
 
