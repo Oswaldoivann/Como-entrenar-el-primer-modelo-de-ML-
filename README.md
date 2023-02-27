@@ -16,8 +16,10 @@
 * Tipos de Problemas con ML Supervisado
 * Algoritmos de Aprendizaje Supervisado
 * Segemaker Lab
-   - Modelo de Regresión Lineal
-   - Modelo de Árboles de decisión
+* Modelo de Regresión Lineal
+  - Dividiendo el DataSet
+  - Entrenando del modelo
+  - Evaluando el Modelo
 
 
 
@@ -101,10 +103,8 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
 
 | No | Title | Open in Studio Lab |
 |----|-------|--------------------|
-|   1|Python I | <a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
-  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
-  </a> |
-
+|   1|Python I | <a><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/></a> |
+|   2|Regresion Lineal | <a><img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/></a> |
 
 # 💹 Regresión Lineal
 
