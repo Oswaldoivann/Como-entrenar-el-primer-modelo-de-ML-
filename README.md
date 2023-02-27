@@ -134,7 +134,7 @@ Las métricas de evaluación son utilizadas para evaluar el rendimiento de un mo
 
 - Coeficiente de determinación (R²): El valor de R² varía entre 0 y 1, donde 0 indica que el modelo no explica ninguna variabilidad y 1 indica que el modelo explica toda la variabilidad. Cuanto mayor sea el valor, mejor será el modelo.
 
-- Validación cruzada (cross-validation): Es una técnica de validación cruzada utilizada para evaluar el rendimiento del modelo. El proceso de validación cruzada implica dividir el conjunto de datos en varios subconjuntos, entrenar y evaluar el modelo en diferentes combinaciones de estos subconjuntos.
+- Validación cruzada (cross-validation): Es una técnica utilizada para evaluar el rendimiento del modelo. El proceso de validación cruzada implica dividir el conjunto de datos en varios subconjuntos, entrenar y evaluar el modelo en diferentes combinaciones de estos subconjuntos.
 
 Existen diferentes metricas de validación, por lo que seleccionar la adecuada dependera del problema que se desea predecir, el cientifico de datos identificara las mas valiosas para cada problema.
 
