@@ -94,7 +94,7 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
    * Modelos lineales generalizados (GLM)
    * Máquinas de vectores de soporte con núcleo gaussiano (SVM-Gaussian Kernel)
 
-# :notebook: Segemaker Lab - Python I
+# :notebook: SegeMaker Studio Lab 
 
 ### Python I
 
@@ -105,11 +105,26 @@ Existen muchos algoritmos de aprendizaje supervisado, cada uno con sus propias c
    </a> |
 
 
-## Regresion Lineal:
+# Regresión Lineal
 
-xyz
+La Regresión Lineal es un método matematico para establecer una relación entre una variable respuesta y una o más variables predictoras. Si existe una relación lineal entre las variables, se puede construir una línea recta que se ajuste a los datos para predecir valores futuros.
 
-## Árboles de decisión:
+- X = Respuesta ó Dependiente.
+- y = Predictoras ó Independientes.
 
-Los árboles de decisión son un tipo de algoritmo de clasificación que divide el conjunto de datos en subconjuntos más pequeños, en función de las características o atributos relevantes, y luego toma decisiones sobre la clase o categoría de un objeto basándose en la información en cada subconjunto.
+
+## Dividiendo Data Set
+
+Para entrenar nuestro modelo, primero debemos dividimos los datos en conjuntos de entrenamiento y prueba para evaluar la capacidad del modelo de aprendizaje. Separar los datos en conjuntos de entrenamiento y prueba es esencial para evaluar modelos y utilizamos la mayor parte del conjunto de datos para el entrenamiento y una fracción más pequeña para las pruebas.
+
+
+## Entrenamiento del modelo
+
+
+
+<a href="https://studiolab.sagemaker.aws/import/github/org/repo/blob/master/path/to/notebook.ipynb">
+  <img src="https://studiolab.sagemaker.aws/studiolab.svg" alt="Open In SageMaker Studio Lab"/>
+</a>
+
+
 
